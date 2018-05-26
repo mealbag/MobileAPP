@@ -1,0 +1,7 @@
+[INFO ] 2018-05-26 17:10:54.217 [main] LunchBoxApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2018-05-26 17:11:08.207 [main] LunchBoxApplication - Started LunchBoxApplication in 14.682 seconds (JVM running for 19.697)
+[DEBUG] 2018-05-26 17:11:10.469 [http-nio-8080-exec-1] LunchBoxController - inside login user
+[DEBUG] 2018-05-26 17:11:15.915 [http-nio-8080-exec-2] LunchBoxController - Inside Menu calls
+[DEBUG] 2018-05-26 18:06:25.002 [http-nio-8080-exec-6] LunchBoxController - inside login user
+[DEBUG] 2018-05-26 18:07:25.141 [http-nio-8080-exec-7] LunchBoxController - inside login user
+[DEBUG] 2018-05-26 18:08:27.585 [http-nio-8080-exec-8] LunchBoxController - Inside Menu calls
