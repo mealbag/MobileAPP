@@ -1,0 +1,5 @@
+[DEBUG] 2018-06-23 15:56:16.141 [http-nio-8080-exec-2] RestEndpoint - inside login user
+[DEBUG] 2018-06-23 16:00:09.145 [http-nio-8080-exec-5] RestEndpoint - inside login user
+[DEBUG] 2018-06-23 16:02:17.276 [http-nio-8080-exec-6] RestEndpoint - inside login user
+[DEBUG] 2018-06-23 16:02:54.295 [http-nio-8080-exec-7] RestEndpoint - inside login user
+[DEBUG] 2018-06-23 16:04:54.837 [http-nio-8080-exec-9] RestEndpoint - Inside Menu calls
